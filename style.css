@@ -1,0 +1,48 @@
+.body {
+	margin: 0;
+}
+.header-h {
+	height: 50px;
+}
+.main-h {
+	height: 900px;
+}
+.h-10 {
+	height: 10%
+}
+.h-20 {
+	height: 15%
+}
+.w-60 {
+	width: 60%
+}
+.w-33 {
+	width: 33%
+}
+.line-h {
+	line-height: 0.9				
+}
+.line-h2 {
+	line-height: 0.4
+}
+.font {
+	font-family: Arial
+}
+.mt50 {
+	margin-top: 25%
+}
+.fs-7 {
+	font-size: 16px
+}
+.lh-50 {
+	line-height: 75%
+}
+.m-6 {
+	margin-right: 55px
+}
+.mt-6 {
+	margin-top: 30px
+}
+.ms-6 {
+	margin-left: 15px
+}
